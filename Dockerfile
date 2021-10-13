@@ -1,2 +1,2 @@
-From ubuntu:latest
-RUN apt update -y
+From nginx:latest
+
