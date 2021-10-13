@@ -1,2 +1,2 @@
-From nginx:latest
-EXPOSE 8000
+From ubuntu:latest
+RUN apt update -y
